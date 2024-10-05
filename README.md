@@ -1,32 +1,84 @@
-<h1 align="center">Hi 👋, I'm Zeyad Hisham Elsayed Metwally</h1>
-<h3 align="center">ECE Student & Firmware Developer 🧑‍💻</h3>
+<h1 align="center" style="color:white;">Hello, World! 👋 I'm Zeyad Hisham Elsayed Metwally</h1>
+<h3 align="center" style="color:white;">Electronics & Communication Engineering Student ⚡ | Firmware Developer 🧑‍💻 | Embedded Enthusiast</h3>
+
 <img align="center" alt="Coding" width="1200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyad-hisham-cyper&label=Profile%20views&color=0e75b6&style=flat" alt="zeyad-hisham-cyper" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeyad-hisham-cyper" alt="zeyad-hisham-cyper" /></a> </p>
-
-- 🌱 I’m currently learning **Embedded Systems (ARM, RTOS, Autosar)**
-
-- 💬 Ask me about **Robotics,Embedded, Electronics,MATLAB, C/C++, Python, OpenCV,and VHDL**
-
-- 📫 How to reach me **zeyad20hisham@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MUN5VvbuwE7v4Xgsh4rURNinqSfGfRKJ/view?usp=sharing](https://drive.google.com/file/d/1MUN5VvbuwE7v4Xgsh4rURNinqSfGfRKJ/view?usp=sharing)
-
-- ⚡ Fun fact **Laziness is the Father of Innovation 🦥**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zeyad-hisham-a5127519b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeyad hisham" height="30" width="40" /></a>
-<a href="https://fb.com/zeyad.hisham.716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="زياد هشام السيد" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/zeyad20hisham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeyad20hisham" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeyad-hisham-cyper&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=zeyad-hisham-cyper&theme=darkhub&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIF/smash.gif" width="250" alt="Smash Keyboard GIF" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyad-hisham-cyper&show_icons=true&locale=en&layout=compact" alt="zeyad-hisham-cyper" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyad-hisham-cyper&show_icons=true&locale=en" alt="zeyad-hisham-cyper" /></p>
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeyad-hisham-cyper&" alt="zeyad-hisham-cyper" /></p>
+- 🌱 Currently learning **Embedded Systems (ARM, RTOS, AUTOSAR)** because, well, who needs sleep anyway?  
+  <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIF/code.gif" width="200" alt="Code GIF" />
+
+- 💬 Ask me about **Robotics, Embedded Systems, Digital Electronics, MATLAB, C/C++, Python, OpenCV, and VHDL.** My toolbox is basically overflowing.
+
+- 📫 How to reach me? **zeyad20hisham@gmail.com**. Whether you want to discuss tech or share memes, I'm here.
+
+- ⚡ Fun Fact: **Laziness is the Father of Innovation 🦥** – and, trust me, I've invented a lot of cool stuff thanks to that!
+
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/1MUN5VvbuwE7v4Xgsh4rURNinqSfGfRKJ/view?usp=sharing)** if you want to know more about my (mis)adventures in the world of electronics and coding.
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIF/cool-funny.gif" width="300" alt="Cool GIF" />
+</p>
+
+---
+
+### 💻 Languages & Tools I Speak Fluently (With Accents in Some):
+
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="filter: invert(1);" /> </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="filter: invert(1);" /> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="filter: invert(1);" /> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" style="filter: invert(1);" /> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="filter: invert(1);" /> </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" style="filter: invert(1);" /> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="filter: invert(1);" /> </a>
+  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" style="filter: invert(1);" /> </a>
+  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" style="filter: invert(1);" /> </a>
+  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" style="filter: invert(1);" /> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="filter: invert(1);" /> </a>
+  <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40" style="filter: invert(1);" /> </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIF/computer-1.gif" width="350" alt="Computer GIF" />
+</p>
+
+---
+
+### 📊 GitHub Stats: 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyad-hisham-cyper&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeyad-hisham-cyper&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyad-hisham-cyper&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect with Me:
+
+<p align="center">
+  <a href="https://linkedin.com/in/zeyad-hisham-a5127519b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="filter: invert(1);" /></a>
+  <a href="https://fb.com/zeyad.hisham.716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" style="filter: invert(1);" /></a>
+  <a href="https://www.hackerrank.com/zeyad20hisham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" style="filter: invert(1);" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIF/rocket.gif" width="300" alt="Rocket Launch GIF" />
+</p>
