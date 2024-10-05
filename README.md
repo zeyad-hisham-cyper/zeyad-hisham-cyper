@@ -13,7 +13,6 @@
 ### 🚀 About Me
 
 - 🌱 Currently learning **Embedded Systems (ARM, RTOS, AUTOSAR)** because, well, who needs sleep anyway?  
-  <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIF/code.gif" width="200" alt="Code GIF" />
 
 - 💬 Ask me about **Robotics, Embedded Systems, Digital Electronics, MATLAB, C/C++, Python, OpenCV, and VHDL.** My toolbox is basically overflowing.
 
@@ -44,10 +43,6 @@
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" style="filter: invert(1);" /> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="filter: invert(1);" /> </a>
   <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40" style="filter: invert(1);" /> </a>
-</p>
-
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgxNTk4ODMsIm5iZiI6MTcyODE1OTU4MywicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA1VDIwMTk0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBkNTc5NGMwNzZmNzBlNDhiN2QzMmRlMTg4ZGFkNjRmMmQ0ZjE2MDQwMzJhYTdkOGRjYzkxY2Y0OWE4ZTRlNTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VPVjD_c4f882cGQAncW5DdSkxKB0Rybe_8X8X4CNkxo" width="350" alt="Computer GIF" />
 </p>
 
 ---
