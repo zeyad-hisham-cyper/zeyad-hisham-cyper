@@ -8,10 +8,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=zeyad-hisham-cyper&theme=darkhub&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIF/smash.gif" width="250" alt="Smash Keyboard GIF" />
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -28,7 +24,7 @@
 - 📄 Check out my **[Resume](https://drive.google.com/file/d/1MUN5VvbuwE7v4Xgsh4rURNinqSfGfRKJ/view?usp=sharing)** if you want to know more about my (mis)adventures in the world of electronics and coding.
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIF/cool-funny.gif" width="300" alt="Cool GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="300" alt="Cool GIF" />
 </p>
 
 ---
@@ -51,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIF/computer-1.gif" width="350" alt="Computer GIF" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgxNTk4ODMsIm5iZiI6MTcyODE1OTU4MywicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA1VDIwMTk0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBkNTc5NGMwNzZmNzBlNDhiN2QzMmRlMTg4ZGFkNjRmMmQ0ZjE2MDQwMzJhYTdkOGRjYzkxY2Y0OWE4ZTRlNTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VPVjD_c4f882cGQAncW5DdSkxKB0Rybe_8X8X4CNkxo" width="350" alt="Computer GIF" />
 </p>
 
 ---
@@ -66,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyad-hisham-cyper&theme=radical" alt="GitHub Streak" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp;
 </p>
 
 ---
@@ -80,5 +76,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIF/rocket.gif" width="300" alt="Rocket Launch GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="300" alt="Rocket Launch GIF" />
 </p>
